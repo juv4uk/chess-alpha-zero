@@ -4,4 +4,4 @@ keras==2.0.8
 profilehooks
 numpy
 pyperclip
-h5py<3.0.0
+h5py
